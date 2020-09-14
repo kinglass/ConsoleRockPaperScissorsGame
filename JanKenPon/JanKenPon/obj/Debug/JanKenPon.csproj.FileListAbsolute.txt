@@ -1,0 +1,7 @@
+C:\Users\Ryan\source\repos\JanKenPon\JanKenPon\bin\Debug\JanKenPon.exe.config
+C:\Users\Ryan\source\repos\JanKenPon\JanKenPon\bin\Debug\JanKenPon.exe
+C:\Users\Ryan\source\repos\JanKenPon\JanKenPon\bin\Debug\JanKenPon.pdb
+C:\Users\Ryan\source\repos\JanKenPon\JanKenPon\obj\Debug\JanKenPon.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\JanKenPon\JanKenPon\obj\Debug\JanKenPon.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\JanKenPon\JanKenPon\obj\Debug\JanKenPon.exe
+C:\Users\Ryan\source\repos\JanKenPon\JanKenPon\obj\Debug\JanKenPon.pdb
